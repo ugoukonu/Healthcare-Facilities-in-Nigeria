@@ -22,4 +22,4 @@ d)	The dataset does not capture quality of care, only facility availability
 Read the full analysis on Medium:
 [Gaps in Healthcare Service Delivery Across Facility Types in Nigeria] (https://medium.com/@ugoukonue/gaps-in-healthcare-service-delivery-across-facility-types-in-nigeria-00129a47787d)
 ## Author
-Ugo Eke Ukonu  Linkedin | Medium
+Ugo Eke Ukonu  [Linkedin | Medium](http://www.linkedin.com/in/ukonu-ugoeke | https://medium.com/@ugoukonue)
